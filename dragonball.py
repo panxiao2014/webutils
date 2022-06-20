@@ -1,3 +1,9 @@
+# Change a set of videos name by using episode information from https://www.themoviedb.org/
+# This script shows some functions:
+# 1. open file with unicode characters in file path
+# 2. python regular search with captured groups
+
+
 import io
 import re
 import glob
